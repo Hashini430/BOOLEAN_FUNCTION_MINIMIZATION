@@ -13,7 +13,6 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 Hardware – PCs, Cyclone II , USB flasher
 
 **Software – Quartus prime**
-
 **Theory**
 ![Screenshot 2024-12-08 034821](https://github.com/user-attachments/assets/99f3c21e-986d-4600-b788-cdb44cce5659)
 ![image](https://github.com/user-attachments/assets/4693e8d6-75ed-491f-b20d-278709d44754)
